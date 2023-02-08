@@ -11,5 +11,22 @@ Git (optional)
  # Installing
 To install the required packages, you can use the following command:
 
-
 pip install streamlit
+
+# Running the code
+To run the code, use the following command in the terminal:
+
+
+streamlit run calculator.py
+
+# Usage
+The calculator allows you to perform the following operations:
+
+Addition<br>
+Subtraction<br>
+Multiplication<br>
+Division<br>
+To use the calculator, simply input two numbers and select the desired operation. The result will be displayed below.
+
+# Contributing
+If you would like to contribute to the project, please create a pull request. All contributions are welcome.
