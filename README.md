@@ -29,8 +29,7 @@ Division<br>
 To use the calculator, simply input two numbers and select the desired operation. The result will be displayed below.
 
 
-# Result
-![result](https://github.com/Sanketarali/Streamlit-Calculator/blob/main/calculator/Screenshot%20(2343).png)
+
 
 # Contributing
 If you would like to contribute to the project, please create a pull request. All contributions are welcome.
